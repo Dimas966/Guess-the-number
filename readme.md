@@ -14,6 +14,7 @@ The project consists of three main files:
 index.html: The main HTML file that defines the structure of the page.
 style.css: The CSS file that defines the styling of the page.
 script.js: The JavaScript file that implements the game logic.
+
 Installation
 This project does not require any installation or setup. Simply download or clone the repository and open the index.html file in your web browser to start playing.
 
